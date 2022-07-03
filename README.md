@@ -20,8 +20,8 @@
 
 <p align="center">
   <a href="https://github.com/vahanafk">
-    <img src="https://github-readme-stats.vercel.app/api?username=vahanafk&count_private=true&show_icons=true&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahanafk&show_icons=true&locale=en&layout=compact&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vahanafk&count_private=true&show_icons=true&theme=dark">
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahanafk&show_icons=true&locale=en&layout=compact&theme=dark">-->
   </a>
 </p>
 
